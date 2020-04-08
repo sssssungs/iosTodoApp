@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  sungsikTodo
+//  TodoList
 //
-//  Created by Randy Won on 2020/04/08.
-//  Copyright © 2020 Randy Won. All rights reserved.
+//  Created by joonwon lee on 2020/03/19.
+//  Copyright © 2020 com.joonwon. All rights reserved.
 //
 
 import UIKit
